@@ -6,3 +6,4 @@ new Promise(function(resolve,reject){
 }).then(function(value){
 	console.log("Hello "+value);
 });
+console.log("End!");
